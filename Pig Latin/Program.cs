@@ -8,8 +8,9 @@ while (runProgram)
 
     if (input[0] == 'a' || input[0] == 'e' || input[0] == 'i' || input[0] == 'o' || input[0] == 'u')
     {
-        Console.WriteLine(input + "way");
+        Console.WriteLine($"Pig Latin for {input} is: " + input + "way");
     }
+
 
     else
     {
@@ -24,43 +25,14 @@ while (runProgram)
                 break;
             }
         }
-        Console.WriteLine("Would you like to enter another word? y/n");
-        string choice = Console.ReadLine();
-        if (choice == "n")
-        {
-            runProgram = false;
-            Console.WriteLine("Thank you for using the Pig Latin Translator");
-        }
+    }
+    Console.WriteLine("Would you like to enter another word? y/n");
+    string choice = Console.ReadLine();
+    if (choice == "n")
+    {
+        runProgram = false;
+        Console.WriteLine("Thank you for using the Pig Latin Translator");
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Console.ReadLine();
