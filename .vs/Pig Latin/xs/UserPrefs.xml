@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{541645A0-7163-4BE3-B447-DAD60F8FE314}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pig Latin/Program.cs">
+    <Files>
+      <File FileName="Pig Latin/Program.cs" Line="3" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pig Latin" expanded="True">
+            <Node name="Pig Latin">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Pig_220Latin FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
